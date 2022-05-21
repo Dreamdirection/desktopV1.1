@@ -1,0 +1,177 @@
+[
+  {
+    "__type__": "cc.AudioClip",
+    "_name": "bgm",
+    "_native": ".mp3"
+  },
+  {
+    "__type__": "cc.TTFFont",
+    "_name": "SF Junk Culture Condensed Oblique",
+    "_native": "SF Junk Culture Condensed Oblique.ttf"
+  },
+  {
+    "__type__": "cc.AnimationClip",
+    "_name": "NPC_2",
+    "_duration": 45.483333333333334,
+    "curveData": {
+      "props": {
+        "y": [
+          {
+            "frame": 0,
+            "value": -545.689
+          },
+          {
+            "frame": 40.016666666666666,
+            "value": -155.396
+          },
+          {
+            "frame": 45.483333333333334,
+            "value": -103.163
+          }
+        ],
+        "x": [
+          {
+            "frame": 40.016666666666666,
+            "value": -78.147
+          },
+          {
+            "frame": 45.483333333333334,
+            "value": -50.289
+          }
+        ]
+      }
+    }
+  },
+  {
+    "__type__": "cc.AnimationClip",
+    "_name": "run",
+    "_duration": 44,
+    "curveData": {
+      "props": {
+        "y": [
+          {
+            "frame": 0,
+            "value": -415.803
+          },
+          {
+            "frame": 40,
+            "value": -98.95
+          },
+          {
+            "frame": 44,
+            "value": 2.896
+          }
+        ]
+      }
+    }
+  },
+  {
+    "__type__": "cc.AnimationClip",
+    "_name": "npc_3",
+    "_duration": 48.5,
+    "curveData": {
+      "props": {
+        "y": [
+          {
+            "frame": 0,
+            "value": -564.022
+          },
+          {
+            "frame": 17.483333333333334,
+            "value": -335.538
+          },
+          {
+            "frame": 31.983333333333334,
+            "value": -204.063
+          },
+          {
+            "frame": 39.016666666666666,
+            "value": -140.186
+          },
+          {
+            "frame": 48.483333333333334,
+            "value": -112.329
+          },
+          {
+            "frame": 48.5,
+            "value": -105.365
+          }
+        ],
+        "x": [
+          {
+            "frame": 0,
+            "value": -239.021
+          },
+          {
+            "frame": 31.983333333333334,
+            "value": -169.377
+          },
+          {
+            "frame": 39.016666666666666,
+            "value": -78.84
+          },
+          {
+            "frame": 48.5,
+            "value": -50.982
+          }
+        ]
+      }
+    }
+  },
+  {
+    "__type__": "cc.AnimationClip",
+    "_name": "NPC_4",
+    "_duration": 48,
+    "curveData": {
+      "props": {
+        "y": [
+          {
+            "frame": 0,
+            "value": -574.11
+          },
+          {
+            "frame": 40,
+            "value": -213.16
+          },
+          {
+            "frame": 48,
+            "value": -115.186
+          }
+        ]
+      }
+    }
+  },
+  {
+    "__type__": "cc.AnimationClip",
+    "_name": "npc_run",
+    "_duration": 48,
+    "curveData": {
+      "props": {
+        "y": [
+          {
+            "frame": 0,
+            "value": -482.871
+          },
+          {
+            "frame": 40,
+            "value": -188.865
+          },
+          {
+            "frame": 48,
+            "value": -115.739
+          }
+        ],
+        "x": [
+          {
+            "frame": 40,
+            "value": 87.494
+          },
+          {
+            "frame": 48,
+            "value": 66.601
+          }
+        ]
+      }
+    }
+  }
+]
